@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Build output
+build/
+Debug/
+Release/
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
